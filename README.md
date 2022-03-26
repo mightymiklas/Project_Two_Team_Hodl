@@ -54,6 +54,7 @@ The SVM model maintains a large delta among both the test and train dataset whic
 Given that SVM models in general work best with unstructured and semi-structured data, such as text or images, because SVM is based upon geometrical properties of the data whereas LR is derived from statistical methods, the risk of overfitting is less in SVM while LR is vulnerable to overfitting. 
 
 	
+	
 Logistic Regression
 	
 -Train
