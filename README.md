@@ -1,7 +1,7 @@
 # BTC Buy & Sell Algo 2020-2021
 ## Project-II
 	UW FINTECH 2021-22: PROJECT II
-	-This application utilizes EMA, SMA, and RSI market indicators to signify buy and sell signals among Bitcoin currency thru Machine Learning models such as Support Vector Machine(SVM) and Logistic Regression (LR). 
+	-This application utilizes EMA, SMA, and RSI market indicators to signify buy and sell signals among the Bitcoin currency thru Machine Learning models such as Support Vector Machine(SVM) and Logistic Regression (LR). 
  
 ---
 
