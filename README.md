@@ -21,20 +21,22 @@ python 3.7
  
 
 ---
-##Preview
+
+
+## Preview
 
 Classification Models...
 
 Logistic Regression
 
-Train
+-Train
 	
 	
 <img width="324" alt="Screen Shot 2022-03-25 at 19 08 15" src="https://user-images.githubusercontent.com/94579605/160220660-a270a92b-bc3d-487d-b494-0d0107fe0f59.png">
 	
 	
 	
-Test
+-Test
 	
 	
 <img width="324" alt="Screen Shot 2022-03-25 at 19 08 15" src="https://user-images.githubusercontent.com/94579605/160220695-4ddef00b-712a-4e38-8515-1b5866297756.png">
@@ -46,7 +48,7 @@ Model Correspondence:
 	
 Support Vector Machine
 	
-Train
+-Train
 	
 	
 <img width="346" alt="Screen Shot 2022-03-25 at 19 12 14" src="https://user-images.githubusercontent.com/94579605/160220772-f26881e4-8a0a-493d-937e-77b8474afa1e.png">
@@ -54,7 +56,7 @@ Train
 
 
 	
-Test
+-Test
 	
 	
 <img width="328" alt="Screen Shot 2022-03-25 at 19 13 23" src="https://user-images.githubusercontent.com/94579605/160220806-eb605e6d-b15d-4c50-8bf9-3b32d0955393.png">
