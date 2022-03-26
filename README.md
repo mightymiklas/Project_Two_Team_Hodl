@@ -50,7 +50,10 @@ Logistic Regression
 	
 Model Correspondence:
 
-
+''''
+'''
+'''
+'''
 	
 Support Vector Machine
 	
@@ -70,7 +73,9 @@ Support Vector Machine
 
 Model Correspondence:
 
-
+'''
+'''
+'''
 				
 ## Installation Guide
 
