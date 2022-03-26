@@ -24,7 +24,7 @@ python 3.7
 
 ## Data Sourced
 
-Bitcoin
+This Bitcoin data is from the timespan "yyyy-mm-dd" - "yyyy-mm-dd" and can be generated from <URL>.
 
 ---
 
