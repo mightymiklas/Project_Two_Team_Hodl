@@ -25,7 +25,7 @@ python 3.7
 
 ## Data Sourced
 
-This Bitcoin data is from the timeframe "yyyy-mm-dd" - "yyyy-mm-dd" and can be generated from [insert url here] <URL>.
+This Bitcoin data is from the timeframe "2014-11-28" - "2022-03-22" and can be generated from [insert url here] <URL>.
 
 ---
 
