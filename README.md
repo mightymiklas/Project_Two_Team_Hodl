@@ -17,6 +17,7 @@ python 3.7
 - [tensorflow](https://pypi.org/project/tensorflow/) - for machine learning modeling
 - [keras](https://pypi.org/project/keras/) - for analyzing data thru deep learning models
 - [matplotlib](https://pypi.org/project/matplotlib/) - for visualizing data
+- [jupyter](https://pypi.org/project/jupyterlab/) - an IDE
  
 
 ---
@@ -34,12 +35,12 @@ Before running the application first install the following dependencies:
   pip install seaborn
   pip install keras
   pip install matplotlib
+  pip install jupyter
 
 ```
 ---
 ## Usage
-To execute the application properly, first clone the repository using 'git clone' and then run 'BitcoinTradingStrategy.ipynb' from within your chosen jupyter environment that meets the requirements of the application in order to run it properly. 
-
+To execute the application properly, first clone the repository using 'git clone' and then run 'BitcoinTradingStrategy.ipynb' from within your chosen jupyter environment that fulfills the application requirements in order to run it properly. 
 
 
 
