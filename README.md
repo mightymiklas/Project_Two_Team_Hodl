@@ -90,7 +90,7 @@ Before running the application first install the following dependencies:
 ```
 ---
 ## Usage
-To execute the application properly, first clone the repository using 'git clone' and then run 'BitcoinTradingStrategy.ipynb' from within your chosen jupyter environment that fulfills the application requirements in order to run it properly. 
+To execute the application, first clone the repository using 'git clone' and then run 'BitcoinTradingStrategy.ipynb' from within your chosen jupyter environment that fulfills the application requirements, in order to run the program properly. 
 
 
 ## Contributors
