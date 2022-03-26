@@ -33,19 +33,18 @@ This Bitcoin data is from the timespan "yyyy-mm-dd" - "yyyy-mm-dd" and can be ge
 
 Classification Models...
 
-Logistic Regression
+Support Vector Machine
 
 -Train
 	
-	
-<img width="324" alt="Screen Shot 2022-03-25 at 19 08 15" src="https://user-images.githubusercontent.com/94579605/160220660-a270a92b-bc3d-487d-b494-0d0107fe0f59.png">
-	
-	
-	
+<img width="384" alt="Screen Shot 2022-03-25 at 19 57 45" src="https://user-images.githubusercontent.com/94579605/160222214-6bb64af7-3e54-4d60-bea8-37d1cf96d52e.png">
+
+
+		
 -Test
 	
-	
-<img width="324" alt="Screen Shot 2022-03-25 at 19 08 15" src="https://user-images.githubusercontent.com/94579605/160220695-4ddef00b-712a-4e38-8515-1b5866297756.png">
+<img width="380" alt="Screen Shot 2022-03-25 at 19 56 10" src="https://user-images.githubusercontent.com/94579605/160222167-56455a08-aa6f-4fe4-b21c-3be72e3a7dbf.png">
+
 
 	
 Model Correspondence:
@@ -55,20 +54,21 @@ Model Correspondence:
 '''
 '''
 	
-Support Vector Machine
+Logistic Regression
 	
 -Train
 	
-	
-<img width="346" alt="Screen Shot 2022-03-25 at 19 12 14" src="https://user-images.githubusercontent.com/94579605/160220772-f26881e4-8a0a-493d-937e-77b8474afa1e.png">
+<img width="384" alt="Screen Shot 2022-03-25 at 19 59 08" src="https://user-images.githubusercontent.com/94579605/160222267-d474788d-fab1-4247-998b-a6b291f2e913.png">
+
 
 
 
 	
 -Test
 	
-	
-<img width="328" alt="Screen Shot 2022-03-25 at 19 13 23" src="https://user-images.githubusercontent.com/94579605/160220806-eb605e6d-b15d-4c50-8bf9-3b32d0955393.png">
+<img width="384" alt="Screen Shot 2022-03-25 at 20 00 38" src="https://user-images.githubusercontent.com/94579605/160222304-c45e1ccb-b06c-4426-aaac-2c10df79a157.png">
+
+
 
 
 Model Correspondence:
