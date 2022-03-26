@@ -48,19 +48,16 @@ Support Vector Machine
 
 	
 Model Correspondence:
+The SVM model maintains a large delta among both the test and train dataset which produces higher volatility and more sporadic price movement, ultimately decreasing the reliability of the model to produce accurate buy and sell signals. As noted above in the test data-set, our precision was at .58 which is only a minor improvement over a coin toss to make a correct decision to buy or sell. 
 
-''''
-'''
-'''
-'''
+Given that SVM models in general work best with unstructured and semi-structured data, such as text or images, because SVM is based upon geometrical properties of the data whereas LR is derived from statistical methods, the risk of overfitting is less in SVM while LR is vulnerable to overfitting. 
+
 	
 Logistic Regression
 	
 -Train
 	
 <img width="384" alt="Screen Shot 2022-03-25 at 19 59 08" src="https://user-images.githubusercontent.com/94579605/160222267-d474788d-fab1-4247-998b-a6b291f2e913.png">
-
-
 
 
 	
@@ -70,12 +67,12 @@ Logistic Regression
 
 
 
-
 Model Correspondence:
 
-'''
-'''
-'''
+The LR model precision is higher and recall score is lower in comparison to the SVM model. This is because the SVM model operates based upon stringent margin principles between data-points which separates the classes and thus reduces the risk of error. In contrast, the LR model accounts for a multitude of decision boundaries, creating a varied margin of error boundary and can account for different weights between data points. 
+	
+The LR model works best with data that contains variables that maintain more contrast, and delineated identities. Thus fitting our data  with the already indentified "EMA," and "SMA" indicators, our LR model produces buy and sell signals with greater accuracy than the SVM model. 
+ 
 				
 ## Installation Guide
 
