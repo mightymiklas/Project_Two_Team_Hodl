@@ -99,9 +99,9 @@ To execute the application properly, first clone the repository using 'git clone
 
 [Harrington, Sean](https://www.linkedin.com/in/sean-harrington16/)
 
-[Rudd, Matthew](https://www.linkedin.com/in/matthewp-rudd/)
-
 [Miklas, Christopher](https://www.linkedin.com/in/christopher-miklas) 
+
+[Rudd, Matthew](https://www.linkedin.com/in/matthewp-rudd/)
 
 
 ---
