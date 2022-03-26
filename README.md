@@ -51,11 +51,11 @@ Model Correspondence:
 	
 The SVM model maintains a large delta among both the test and train dataset which produces higher volatility and more sporadic price movement, ultimately decreasing the reliability of the model to produce accurate buy and sell signals. As noted above in the test data-set, our precision was at .58 which is only a minor improvement over a coin toss to make a correct decision to buy or sell. 
 
-Given that SVM models in general work best with unstructured and semi-structured data, such as text or images, because SVM is based upon geometrical properties of the data whereas LR is derived from statistical methods, the risk of overfitting is less in SVM while LR is vulnerable to overfitting. 
-
+Given that SVM models in general work best with unstructured and semi-structured data, such as text or images, because SVM is based upon geometrical properties of the data whereas LR is derived from statistical methods, the risk of overfitting is less in SVM while LR is vulnerable to overfitting.
 	
 	
 Logistic Regression
+	
 	
 -Train
 	
