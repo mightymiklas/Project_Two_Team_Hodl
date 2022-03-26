@@ -2,7 +2,7 @@
 
 UW FINTECH 2021-22 Project II
 
--This application utilizes EMA, SMA, and RSI market indicators to signify buy and sell signals among the Bitcoin currency thru Machine Learning models such as Support Vector Machine(SVM) and Logistic Regression (LR). 
+-This application utilizes EMA and SMA as market indicators to signify buy and sell signals among the Bitcoin currency thru Machine Learning models such as Support Vector Machine(SVM) and Logistic Regression (LR). 
  
 ---
 
