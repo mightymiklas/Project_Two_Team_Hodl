@@ -13,14 +13,11 @@ python 3.7
 - [plotly](https://pypi.org/project/plotly/) - for plotting data
 - [pandas](https://pypi.org/project/pandas/) - for analyzing data 
 - [numpy](https://pypi.org/project/numpy/) - for analyzing data 
-- [seaborn](https://pypi.org/project/seaborn/) - for analyzing data
 - [sklearn](https://pypi.org/project/sklearn/) - for analyzing data thru machine learning models
-- [tensorflow](https://pypi.org/project/tensorflow/) - for machine learning modeling
-- [keras](https://pypi.org/project/keras/) - for analyzing data thru deep learning models
 - [matplotlib](https://pypi.org/project/matplotlib/) - for visualizing data
 - [jupyter](https://pypi.org/project/jupyterlab/) - an IDE
  
-
+ 
 ---
 
 ## Data Sourced
@@ -86,9 +83,6 @@ Before running the application first install the following dependencies:
   pip install plotly
   pip install numpy
   pip install sci-kit learn
-  pip install tensorflow
-  pip install seaborn
-  pip install keras
   pip install matplotlib
   pip install jupyter
 
