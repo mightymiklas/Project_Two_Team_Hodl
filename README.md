@@ -1,4 +1,4 @@
-# BTC Buy & Sell Algo 2020-2021
+# BTC Trading Algorithm - Moving Averages and Machine Learning 
 
 UW FINTECH 2021-22 Project II
 
